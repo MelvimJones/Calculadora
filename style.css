@@ -1,0 +1,45 @@
+.fundo{
+    background-color: rgba(51, 51, 57, 0.448);
+    width: 280px;
+    height: 400px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 20px;
+}
+h2{
+    text-align: center;
+    font-family: sans-serif;
+    color: antiquewhite;
+}
+.tela{
+    background-color: aliceblue;
+    width: 220px;
+    height: 36px;
+    margin: auto;
+    border-radius: 5px;
+    text-align: right;
+    font-style: normal;
+    
+    
+}
+.botao{
+    border-radius: 3px;
+    font-size: 30px;
+    width: 51px;
+    height: 52px;
+}
+.botao:hover{
+    background-color: rgba(0, 0, 255, 0.246);
+    color: aquamarine;
+}
+table{
+    width: 226px;
+    height: 280px;
+    margin: auto;
+    margin-top: 20px;
+}
+body{
+    background-image: url(https://images.unsplash.com/photo-1577017040065-650ee4d43339?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8em9vbSUyMGJhY2tncm91bmR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60);
+    background-size: cover ;
+    background-position: center;
+}
